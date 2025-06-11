@@ -1,5 +1,8 @@
 # API Gateway
 
+## Medium Article
+[Medium article](https://medium.com/@dmytro.misik/building-api-gateway-in-node-js-part-i-overview-routing-d684c8963938)
+
 ## Description
 
 This project is a custom API Gateway built using Node.js and Express.The implementation covers various features.
@@ -24,6 +27,6 @@ Run `yarn test` to run the tests
 
 ## CI
 
-[Medium article] (https://medium.com/@dmytro.misik/building-api-gateway-in-node-js-part-i-overview-routing-d684c8963938)
+
 
 The project uses GitHub Actions for CI. The workflow is defined in [`.github/workflows/ci.yaml`](.github/workflows/ci.yaml)
